@@ -24,3 +24,4 @@ Step 10:  Apply selction sort on the array.
 Step 11: Store the sorted array in a file
 Step 12: Display time required <-clock()-start.
 Step 13: end.
+
